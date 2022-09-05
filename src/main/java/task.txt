@@ -1,0 +1,8 @@
+market projesi
+
+personel
+ürün
+kategori
+stok kontrol
+muhasebe
+satıs
